@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siddhar\\source\\repos\\CPP Repo\\Semester 2\\Helloworld2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E387F3-E395-4AF5-A435-50EBEFBF6DD6}|Helloworld2.vcxproj|C:\\Users\\Siddhar\\Desktop\\UKZN\\3rd Year\\Semester 2\\Comp 307\\Practicals\\Practical 0-20260730\\Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E387F3-E395-4AF5-A435-50EBEFBF6DD6}|Helloworld2.vcxproj|C:\\Users\\Siddhar\\source\\repos\\CPP Repo\\Semester 2\\Helloworld2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7E387F3-E395-4AF5-A435-50EBEFBF6DD6}|Helloworld2.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tester.cpp",
+              "DocumentMoniker": "C:\\Users\\Siddhar\\Desktop\\UKZN\\3rd Year\\Semester 2\\Comp 307\\Practicals\\Practical 0-20260730\\Tester.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\UKZN\\3rd Year\\Semester 2\\Comp 307\\Practicals\\Practical 0-20260730\\Tester.cpp",
+              "ToolTip": "C:\\Users\\Siddhar\\Desktop\\UKZN\\3rd Year\\Semester 2\\Comp 307\\Practicals\\Practical 0-20260730\\Tester.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\UKZN\\3rd Year\\Semester 2\\Comp 307\\Practicals\\Practical 0-20260730\\Tester.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T14:17:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Siddhar\\source\\repos\\CPP Repo\\Semester 2\\Helloworld2\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\Siddhar\\source\\repos\\CPP Repo\\Semester 2\\Helloworld2\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T14:17:27.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Test_OpenGL_2024\x64\Debug\Test_OpenGL_2024.exe
+C:\Users\user\source\repos\Prac1_Shader_2024\x64\Debug\Prac1_Shader_2024.exe

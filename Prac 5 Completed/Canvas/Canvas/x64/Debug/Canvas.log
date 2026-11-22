@@ -1,0 +1,8 @@
+﻿  Prac5.cpp
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(13,16): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(13,16): warning C4244:         with
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(13,16): warning C4244:         [
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(13,16): warning C4244:             genType=double
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(13,16): warning C4244:         ]
+C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\Prac5.cpp(212,14): warning C4305: '+=': truncation from 'double' to 'float'
+  Canvas.vcxproj -> C:\Users\Siddhar\source\repos\CPP Repo\Semester 2\Comp 307 Pracs\Prac 5 Completed\Canvas\x64\Debug\Canvas.exe
